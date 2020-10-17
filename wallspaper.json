@@ -2,8 +2,8 @@
 	{
 		"name": "minimalist01",
 		"author": "GreenHouseStudio",
-		"url": "https://github.com/GrrenHouseStudio/Wallpaper-Test/blob/master/1.jpg",
-		"thumbnail": "https://github.com/GrrenHouseStudio/Wallpaper-Test/blob/master/1.jpg",
+		"url": "https://raw.githubusercontent.com/GrrenHouseStudio/wallspaper/main/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/GrrenHouseStudio/wallspaper/main/1.jpg",
 		"downloadable" : "true",
 		"collections": "Minimalistic"
 	}
